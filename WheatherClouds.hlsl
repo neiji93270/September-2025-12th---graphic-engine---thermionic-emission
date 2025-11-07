@@ -4,3 +4,6 @@
 //rapidely pc ram for large calculuses. to avoid gpu overhead,
 //we have to focus on heat transfer mostly and not beam physics directly.
 //as
+
+//https://physics.stackexchange.com/questions/ask
+//maybe we can find variants for galois topology that already dont exist nowadays.
